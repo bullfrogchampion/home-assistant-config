@@ -1,0 +1,25 @@
+media_player.upstairs_speakers:
+  config_entry_id: 4fa7f3870bc04bd29002c29653adda4e
+  name:
+  platform: cast
+  unique_id: e0f1c367-ad5f-dc82-7d7f-e1d263ec5b63
+media_player.whole_house:
+  config_entry_id: 4fa7f3870bc04bd29002c29653adda4e
+  name:
+  platform: cast
+  unique_id: b3cc4971-abba-4f61-a8e5-7777aa526f58
+media_player.downstairs_speakers:
+  config_entry_id: 4fa7f3870bc04bd29002c29653adda4e
+  name:
+  platform: cast
+  unique_id: 6e7f5c1f-fc87-7a44-a15c-b051c19c47d6
+media_player.kd55x8500c:
+  config_entry_id: 4fa7f3870bc04bd29002c29653adda4e
+  name: TV
+  platform: cast
+  unique_id: 5a5ba8e8-38e3-d927-7790-68ce899b561d
+media_player.downstairs_home:
+  config_entry_id: 4fa7f3870bc04bd29002c29653adda4e
+  name:
+  platform: cast
+  unique_id: 52260c7c-1fdd-6c38-0b3d-2c865d0cef7d
