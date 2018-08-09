@@ -66,6 +66,12 @@ tts:
 # Cloud
 cloud:
 
+mqtt:
+  broker: !secret mqtt_broker
+  port: !secret mqtt_port
+  username: !secret mqtt_username
+  password: !secret mqtt_password
+
 group: !include groups.yaml
 automation: !include automations.yaml
 script: !include scripts.yaml
